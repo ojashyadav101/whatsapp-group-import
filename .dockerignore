@@ -1,0 +1,9 @@
+node_modules
+.wwebjs_auth
+import_results.csv
+.env
+.git
+.gitignore
+terminals
+mcps
+agent-transcripts
